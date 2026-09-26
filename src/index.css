@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-serif: 'Cormorant Garamond', Georgia, Cambria, serif;
+    --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    color: #2D2426;
+    background-color: #FFF9FA;
+  }
+
+  h1, h2, h3, .font-royal {
+    font-family: var(--font-serif);
+  }
+}
+
+/* Custom delicate royal scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #FDF4F6;
+}
+::-webkit-scrollbar-thumb {
+  background: #E8B9C8;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #D99AB0;
+}

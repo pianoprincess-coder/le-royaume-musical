@@ -1,0 +1,8 @@
+{
+  "name": "Le Royaume Musical",
+  "description": "🎹 Le Royaume Musical — Découvrez l’histoire de la musique, le piano et le solfège.\n \nEncyclopédie musicale, musée numérique, solfège, sciences acoustiques, mathématiques et histoire universelle de la musique.\n\nBienvenue dans Le Royaume Musical, un site dédié à tous ceux qui aiment la musique et souhaitent découvrir ses secrets. Explorez l’histoire de la musique, les grands compositeurs, l’évolution du piano, le solfège, les notes, les clés, les rythmes et les grands morceaux qui ont marqué l’histoire.\n\nDécouvrez également la relation fascinante entre musique, cerveau, sciences et émotions à travers des explications simples, des anecdotes, des quiz et des découvertes musicales.\n\n🎼 Histoire de la musique • 🎹 Piano • 📚 Solfège • 🎻 Instruments • 🧠 Musique & science • 🎮 Quiz musicaux • 🎵 Compositeurs\n\nLe Royaume Musical est un espace pour apprendre, explorer et développer sa passion pour la musique.\n",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
